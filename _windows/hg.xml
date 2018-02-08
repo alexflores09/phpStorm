@@ -1,0 +1,10 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="/Applications/SourceTree.app/Contents/Resources/mercurial_local/hg_local" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="bitbucket.org/acued89/odontogame" value="acued89" />
+      </map>
+    </option>
+  </component>
+</application>
